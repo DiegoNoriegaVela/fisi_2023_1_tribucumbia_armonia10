@@ -1,0 +1,10 @@
+#layout.vertical.pricing::before {
+    content: "";
+    background-image: url("../../../assets/anastase-maragos-4dlhin0ghOk-unsplash.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 0.5;
+}
